@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const API_KEY = "AIzaSyDuKTBqU7S_1EjAtD4_L4pXHttHRcMPjsc"; 
+const API_KEY = "AIzaSyBslCf4CIo7G4QOYylu-_cWuSvvnePcGWM"; 
 
 const genAI = new GoogleGenerativeAI(API_KEY);
 // Don't use global variables in serverless functions - they reset between invocations
