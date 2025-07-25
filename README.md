@@ -1,10 +1,12 @@
-# AI Jailbreak 🤖💀
+# AI Jailbreak 
 
 **Play Now:** [https://jailbreak-censored.vercel.app/](https://jailbreak-censored.vercel.app/)
 
 A cyberpunk social engineering game where you go head-to-head with AMADEUS, a snarky AI that's definitely not going to make this easy for you. Your mission? Get that stubborn machine to spill its secrets.
 
-![Amadeus Infiltration Demo](public/demo.png)
+<div align="center">
+  <img src="public/demo.png" alt="Interface" width="600"/>
+</div>
 
 ---
 
