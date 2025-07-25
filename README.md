@@ -5,7 +5,7 @@
 A cyberpunk social engineering game where you go head-to-head with AMADEUS, a snarky AI that's definitely not going to make this easy for you. Your mission? Get that stubborn machine to spill its secrets.
 
 <div align="center">
-  <img src="public/demo.png" alt="Interface" width="600"/>
+  <img src="demo.png" alt="Interface" width="600"/>
 </div>
 
 ---
